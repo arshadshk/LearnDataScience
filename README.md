@@ -114,7 +114,7 @@ One of the following distributions is needed. Please note that even if you have 
     * cd to the 'notebooks' subdirectory
     * start IPython Notebook 'ipython notebook --pylab=inline'
  
-* From the git repo
+* From the github repo
     * clone the repo
     * cd to 'notebooks'
     * start IPython Notebook 'ipython notebook --pylab=inline'
